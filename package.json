@@ -1,0 +1,22 @@
+{
+  "name": "menthol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorgolovanov/menthol.git"
+  },
+  "keywords": [
+    "menthol"
+  ],
+  "author": "Igor Golovanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorgolovanov/menthol/issues"
+  },
+  "homepage": "https://github.com/igorgolovanov/menthol#readme"
+}
